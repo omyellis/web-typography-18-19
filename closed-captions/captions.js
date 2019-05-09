@@ -1,64 +1,109 @@
-// All right, first you flick this switch,
-captions[0] = ['0.09','3.63'];
-captions[1] = ['3.802','5.012'];
-captions[2] = ['5.178','7.008'];
-// which will give you five minutes
-captions[3] = ['7.18','10.22'];
-captions[4] = ['10.392','11.772'];
-captions[5] = ['12.31','14.73'];
-// because that will set off the bomb
-captions[6] = ['14.896','18.486'];
-captions[7] = ['18.65','21.07'];
-captions[8] = ['21.236','23.036'];
-// -I am Groot.
-captions[9] = ['23.196','25.156'];
-captions[10] = ['25.323','26.533'];
-captions[11] = ['26.867','29.247'];
-// Try again.
-captions[12] = ['29.411','30.411'];
-captions[13] = ['33.415','35.255'];
-captions[14] = ['35.417','37.467'];
-// I am Groot.
-captions[15] = ['37.627','38.547'];
-captions[16] = ['38.712','40.542'];
-captions[17] = ['40.714','42.304'];
-// Which button is the button
-captions[18] = ['42.466','44.676'];
-captions[19] = ['44.843','45.973'];
-captions[20] = ['46.136','47.096'];
-// Hey, you're making him nervous!
-captions[21] = ['47.429','49.179'];
-captions[22] = ['49.347','51.107'];
-captions[23] = ['51.266','52.646'];
-// I wanna put some tape
-captions[24] = ['52.809','54.519'];
-captions[25] = ['54.686','57.566'];
-captions[26] = ['57.731','59.191'];
-// Do you have any tape?
-captions[27] = ['60.567','62.737'];
-captions[28] = ['65.03','68.07'];
-captions[29] = ['68.241','69.281'];
-// Never mind.
-captions[30] = ['69.451','70.701'];
-captions[31] = ['72.788','75.378'];
-captions[32] = ['76.124','78.084'];
-// Then why did you ask me
-captions[33] = ['78.376','80.336'];
-captions[34] = ['80.42','81.92'];
-captions[35] = ['82.923','84.053'];
-// Not a single person has tape?
-captions[36] = ['84.216','85.766'];
-captions[37] = ['86.134','87.134'];
-captions[38] = ['87.302','88.472'];
-// Yes!
-captions[39] = ['89.346','90.056'];
-captions[40] = ['90.222','91.432'];
-captions[41] = ['91.598','92.888'];
-// -and she was sitting next to him.
-captions[42] = ['93.058','95.228'];
-captions[43] = ['95.393','97.433'];
-captions[44] = ['97.604','99.984'];
-// That's exactly my point!
-captions[45] = ['100.148','103.648'];
-captions[46] = ['103.86','106.36'];
-captions[47] = ['112.702','0'];
+captions[0] = ['3.8','8.1'];
+captions[1] = ['8.1','10'];
+captions[2] = ['10.8','12.5'];
+	//And blood-black nothingness began to spin
+captions[3] = ['12.5','15.6'];
+captions[4] = ['17.369','20'];
+captions[5] = ['20.1','23.3'];
+	//Fuck off, skin-job!
+captions[6] = ['23.3','25.2'];
+	
+captions[7] = ['26.8','31.6'];
+captions[8] = ['32.7','33'];
+captions[9] = ['33.2','34'];
+	//Have you ever been in an institution?
+captions[10] = ['34','36'];
+captions[11] = ['36','36.3'];
+captions[12] = ['36.5','37.3'];
+	//Do they keep you in a cell?
+captions[13] = ['37.3','38.6'];
+captions[14] = ['38.6','38.9'];
+captions[15] = ['39.1','39.9'];
+	//When you're not performing your duties, do they keep you in a little box?
+captions[16] = ['39.9','42.8'];
+captions[17] = ['42.8','43.1'];
+captions[18] = ['43.3','44.1'];
+	//Interlinked
+captions[19] = ['44','44.5'];
+captions[20] = ['45','45.7'];
+	//What's it like to hold the hand of someone you love?
+captions[21] = ['45.7','47.6'];
+captions[22] = ['47.6','48.1'];
+captions[23] = ['48.3','49'];
+	//Did they teach you how to feel, finger to finger?
+captions[24] = ['49.1','50.9'];
+captions[25] = ['50.9','51.4'];
+captions[26] = ['51.6','52.3'];
+	//Do you long for having your heart interlinked?
+captions[27] = ['52.3','54'];
+captions[28] = ['54','54.5'];
+captions[29] = ['54.7','55.4'];
+	//Do you dream about being interlinked?
+captions[30] = ['55.4','57.2'];
+captions[31] = ['57.2','58'];
+	//What's it like to hold your child in your arms?
+captions[32] = ['58','59.8'];
+captions[33] = ['59.8','60.3'];
+captions[34] = ['60.3','61'];
+	//Do you feel that there's a part of you that's missing?
+captions[35] = ['61','62.7'];
+captions[36] = ['62.7','63.2'];
+captions[37] = ['63.2','63.9'];
+	//Within cells interlinked.
+captions[38] = ['63.9','65.2'];
+captions[39] = ['65.2','66.6'];
+	//Why don't you say that three times: "within cells interlinked".
+captions[40] = ['66.6','69.1'];
+
+captions[41] = ['69.1','70.6'];
+captions[42] = ['70.6','72.2'];
+captions[43] = ['72.2','74.2'];
+	// We're done.
+captions[44] = ['77.1','78.7'];
+captions[45] = ['80','81.738'];
+captions[46] = ['82.2','84.3'];
+captions[47] = ['85.4','87'];
+
+//end manual labour
+captions[48] = ['87.68','88.18'];
+captions[49] = ['88.38','88.88'];
+// Have you ever been in an institution. Cells
+captions[50] = ['88.88','91.24'];
+captions[51] = ['91.34','91.84'];
+captions[52] = ['91.98','95.52'];
+// -Cells
+captions[53] = ['95.52','96.02'];
+captions[54] = ['96.12','100.2'];
+captions[55] = ['100.3','102.4'];
+// -Interlinked
+captions[56] = ['102.64','103.3'];
+captions[57] = ['103.3','104.38'];
+captions[58] = ['104.54','105.42'];
+// Dreadfully
+captions[59] = ['105.42','105.92'];
+captions[60] = ['106','106.5'];
+captions[61] = ['106.64','109.28'];
+// -Dreadfully
+captions[62] = ['109.28','109.8'];
+captions[63] = ['109.8','112.4'];
+captions[64] = ['112.4','113'];
+// Dreadfully distinct
+captions[65] = ['113','114.06'];
+captions[66] = ['114.12','114.98'];
+captions[67] = ['115.02','115.56'];
+// -Dark
+captions[68] = ['115.56','116.26'];
+captions[69] = ['116.26','117.4'];
+captions[70] = ['117.4','118.44'];
+// Withing one stem
+captions[71] = ['118.44','120'];
+captions[72] = ['120.46','121.28'];
+captions[73] = ['121.4','122.66'];
+// -And dreadfully distinct
+captions[74] = ['122.66','123.86'];
+captions[75] = ['123.98','124.92'];
+captions[76] = ['124.92','125.52'];
+// A tall white fountain played
+captions[77] = ['125.52','127.28'];
+captions[78] = ['128.18','130.14'];
+captions[79] = ['132.58','135'];
